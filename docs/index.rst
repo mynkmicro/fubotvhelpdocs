@@ -12,7 +12,7 @@ Welcome
 This guide explains how to access and manage your Fubo TV login account in a secure and user-friendly way. Many users search for reliable information about signing in, resetting passwords, and fixing account issues. This article provides practical guidance written in a clear and natural style to ensure helpful reading and better search visibility.
 
 
-.. image:: login-noww.png
+.. image:: getstartbutton.png
    :alt: My Project Logo
    :width: 400px
    :align: center
